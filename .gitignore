@@ -1,0 +1,9 @@
+## IGNORE .ipython backup files
+.__pycache__/
+.ipynb_checkpoints/
+.Funding_discount/
+## IGNORE Lecture files
+*.pdf
+*.pptx
+*.zip
+*.mp4
